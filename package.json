@@ -1,0 +1,14 @@
+{
+  "name": "learning_tailwindcss2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx tailwindcss -i ./tailwind.css -o ./style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
